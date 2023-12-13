@@ -1,0 +1,5 @@
+# idea
+.idea/
+
+# jupyter
+notebooks/.ipynb_checkpoints
